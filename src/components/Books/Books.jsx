@@ -17,9 +17,13 @@ const Books = () => {
         <div>
             <h2 className="text-5xl text-center mb-8">Books</h2>
 
-            {
-                books.map(book => <Book key={book.bookId} book={book}></Book>)
-            }
+            <div className='grid grid-cols-1 grid-rows-1 justify-between md:grid-cols-3 md:grid-rows-3 gap-16 mb-8'>
+                {
+                    books.map(book => <Book key={book.bookId} book={book} />)
+                }
+            </div>
+
+
         </div>
     );
 };
