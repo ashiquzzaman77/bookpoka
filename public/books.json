@@ -1,0 +1,134 @@
+[
+  {
+    "bookId": "001",
+    "bookName": "The Emotional Journey",
+    "image": "http://example.com/image1.jpg",
+    "author": "Jane Doe",
+    "review": "A captivating story that explores the depths of human emotion.",
+    "totalPages": 320,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["emotional", "drama", "relationships"]
+  },
+  {
+    "bookId": "002",
+    "bookName": "Modern Insights",
+    "image": "http://example.com/image2.jpg",
+    "author": "John Smith",
+    "review": "An insightful take on modern society with well-developed characters.",
+    "totalPages": 280,
+    "rating": 4.0,
+    "category": "Contemporary",
+    "tags": ["social issues", "character-driven"]
+  },
+  {
+    "bookId": "003",
+    "bookName": "Edge of Adventure",
+    "image": "http://example.com/image3.jpg",
+    "author": "Emily Johnson",
+    "review": "A thrilling adventure that kept me on the edge of my seat.",
+    "totalPages": 350,
+    "rating": 4.7,
+    "category": "Adventure",
+    "tags": ["thriller", "action", "suspense"]
+  },
+  {
+    "bookId": "004",
+    "bookName": "Threads of Time",
+    "image": "http://example.com/image4.jpg",
+    "author": "Michael Brown",
+    "review": "A beautifully written tale that weaves together history and fiction.",
+    "totalPages": 400,
+    "rating": 4.6,
+    "category": "Historical Fiction",
+    "tags": ["historical", "narrative", "rich detail"]
+  },
+  {
+    "bookId": "005",
+    "bookName": "Reflections on Life",
+    "image": "http://example.com/image5.jpg",
+    "author": "Sarah Davis",
+    "review": "A thought-provoking novel that challenges the reader's perspective.",
+    "totalPages": 250,
+    "rating": 4.3,
+    "category": "Philosophical",
+    "tags": ["thought-provoking", "introspective"]
+  },
+  {
+    "bookId": "006",
+    "bookName": "Unexpected Love",
+    "image": "http://example.com/image6.jpg",
+    "author": "David Wilson",
+    "review": "A heartwarming story of love and friendship in unexpected places.",
+    "totalPages": 300,
+    "rating": 4.2,
+    "category": "Romance",
+    "tags": ["romance", "friendship", "feel-good"]
+  },
+  {
+    "bookId": "007",
+    "bookName": "The Last Clue",
+    "image": "http://example.com/image7.jpg",
+    "author": "Linda Taylor",
+    "review": "An intriguing mystery that kept me guessing until the last page.",
+    "totalPages": 280,
+    "rating": 4.4,
+    "category": "Mystery",
+    "tags": ["mystery", "suspense", "whodunit"]
+  },
+  {
+    "bookId": "008",
+    "bookName": "Mind Games",
+    "image": "http://example.com/image8.jpg",
+    "author": "Robert Anderson",
+    "review": "A fascinating exploration of the human psyche and its complexities.",
+    "totalPages": 360,
+    "rating": 4.5,
+    "category": "Psychological Thriller",
+    "tags": ["psychological", "intense", "deep"]
+  },
+  {
+    "bookId": "009",
+    "bookName": "Survival Instincts",
+    "image": "http://example.com/image9.jpg",
+    "author": "Jessica Moore",
+    "review": "A gripping tale of survival that is both harrowing and inspiring.",
+    "totalPages": 290,
+    "rating": 4.6,
+    "category": "Survival",
+    "tags": ["survival", "inspiring", "adventure"]
+  },
+  {
+    "bookId": "010",
+    "bookName": "Moments of Joy",
+    "image": "http://example.com/image10.jpg",
+    "author": "James White",
+    "review": "A delightful journey filled with humor and heartwarming moments.",
+    "totalPages": 310,
+    "rating": 4.1,
+    "category": "Comedy",
+    "tags": ["humor", "light-hearted", "feel-good"]
+  },
+  {
+    "bookId": "009",
+    "bookName": "Survival Instincts",
+    "image": "http://example.com/image9.jpg",
+    "author": "Jessica Moore",
+    "review": "A gripping tale of survival that is both harrowing and inspiring.",
+    "totalPages": 290,
+    "rating": 4.6,
+    "category": "Survival",
+    "tags": ["survival", "inspiring", "adventure"]
+  },
+  {
+    "bookId": "010",
+    "bookName": "Moments of Joy",
+    "image": "http://example.com/image10.jpg",
+    "author": "James White",
+    "review": "A delightful journey filled with humor and heartwarming moments.",
+    "totalPages": 310,
+    "rating": 4.1,
+    "category": "Comedy",
+    "tags": ["humor", "light-hearted", "feel-good"]
+  }
+]
